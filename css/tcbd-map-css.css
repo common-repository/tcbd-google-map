@@ -1,0 +1,13 @@
+td.tcbd-map label {
+	display: inline-block;
+	width: 45%;
+	padding-right: 20px;
+}
+
+.tcbd-map-image {
+	display: block;
+}
+
+.tcbd-map-image img {
+	width: 100%;
+}
